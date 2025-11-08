@@ -21,7 +21,7 @@ autoscaling project/
 
 
 ##  <img src="https://github.com/user-attachments/assets/612137fd-b2de-411c-acd7-f94c4811e9f2" height="25px" style="vertical-align:text-bottom;"> Technologies Used
-- **Programming Language:** Python /React/ Node.js
+- **Programming Language:** Python / React / Node.js
 - **Cloud Platform:** AWS 
 - **Containerization:** Docker / Kubernetes  
 - **Monitoring Tools:** Prometheus / CloudWatch / Grafana  
