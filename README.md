@@ -3,7 +3,8 @@ The **Autoscaling Project** is designed to dynamically adjust computing resource
 
 ##  <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;">  Repository Structure
 ```bash
-autoscaling/
+autoscaling project/
+│
 ├── 📁 backend/     
 ├── 📁 frontend/
 │    ├── 📁 plugins/
