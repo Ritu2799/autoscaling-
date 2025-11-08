@@ -1,0 +1,13 @@
+.venv
+venv
+__pycache__/
+*.pyc
+*.so
+*.dylib
+*.h5
+*.pth
+*.pt
+*.egg-info
+.environment
+.env
+.DS_Store
