@@ -5,7 +5,10 @@ The **Autoscaling Project** is designed to dynamically adjust computing resource
 ```bash
 autoscaling/
 ├── 📁 backend/     
-├── 📁 frontend/            
+├── 📁 frontend/
+│    ├── 📁 src/
+│    ├── 📁 plugins/
+│    └── 📁 src/        
 └── README.md            
 ```
 ## <img src="https://github.com/user-attachments/assets/dcdcffb4-c4e2-40ee-84cc-aca8612d257e" height="30px" style="vertical-align: text-bottom; margin-bottom:-3050px;">  Features
