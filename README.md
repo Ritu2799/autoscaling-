@@ -6,8 +6,8 @@ The **Autoscaling Project** is designed to dynamically adjust computing resource
 autoscaling/
 ├── 📁 backend/     
 ├── 📁 frontend/
-│    ├── 📁 src/
 │    ├── 📁 plugins/
+│    ├── 📁 public/
 │    └── 📁 src/        
 └── README.md            
 ```
