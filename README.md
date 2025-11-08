@@ -44,7 +44,7 @@ npm install   # or pip install -r requirements.txt
 ```bash
 npm start   # or python main.py
 ```
-## Example Configuration
+## 🧩 Example Configuration
 ```bash
 scaling_policy:
   metric: cpu_utilization
