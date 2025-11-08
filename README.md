@@ -19,16 +19,10 @@ autoscaling project/
 - Real-time monitoring and alerts  
 - Configurable scaling thresholds and cooldown periods  
 
-## 🏗️ Architecture
-The system consists of the following key components:
-1. **Monitoring Module** – Tracks resource utilization and triggers scaling events.  
-2. **Scaling Controller** – Decides when to add or remove instances.  
-3. **Load Balancer** – Distributes traffic evenly across instances.  
-4. **Configuration File** – Defines scaling policies and thresholds.
 
-## 💻 Technologies Used
-- **Programming Language:** Python / Java / Node.js *(choose your stack)*  
-- **Cloud Platform:** AWS / Azure / GCP  
+##  <img src="https://github.com/user-attachments/assets/612137fd-b2de-411c-acd7-f94c4811e9f2" height="25px" style="vertical-align:text-bottom;"> Technologies Used
+- **Programming Language:** Python /React/ Node.js
+- **Cloud Platform:** AWS 
 - **Containerization:** Docker / Kubernetes  
 - **Monitoring Tools:** Prometheus / CloudWatch / Grafana  
 
@@ -68,9 +62,6 @@ Grafana Dashboard – for visualization
 ## <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="35"/> Contributing
 Contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements.
 
-## 🛡️ License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
 
 
